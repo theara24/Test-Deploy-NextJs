@@ -26,14 +26,14 @@ export const metadata: Metadata = {
     images: [
       {
         url: 'https://i.pinimg.com/736x/f9/fa/72/f9fa72bc4e11357047c5cfb5f07364ba.jpg',
-        width: 1200,
-        height: 630,
+        width: 500,
+        height: 500,
         alt: 'Open Graph Image',
       },
     ],
     locale: 'en_US',
     type: 'website',
-  }
+  },
 };
 
 export default function RootLayout({
